@@ -25,5 +25,6 @@ public class GitTest {
         System.out.println("这里是hot-fix分支代码");
         System.out.println("这里是master分支代码2222222222222222");
         System.out.println("这里是hot-fix分支代码22222222222222");
+        System.out.println("这里是hot-fix分支代码3333333333333333");
     }
 }
