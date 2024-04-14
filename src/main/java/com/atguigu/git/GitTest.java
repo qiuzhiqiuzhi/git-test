@@ -28,6 +28,8 @@ public class GitTest {
         System.out.println("master push tes3");
         System.out.println("master push tes4");
         System.out.println("master push tes5");
+        System.out.println("master push tes6");
+        
 
     }
 }
