@@ -23,5 +23,6 @@ public class GitTest {
         System.out.println("hello git4!");
         System.out.println("master分支");
         System.out.println("hot-fix代码");
+        System.out.println("master push test");
     }
 }
