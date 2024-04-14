@@ -22,6 +22,6 @@ public class GitTest {
         System.out.println("hello git4!");
         System.out.println("hello git5!");
         System.out.println("hello git6!");
-        System.out.println("hhhhhhhhhhhhhhhhh");
+        System.out.println("这里是hot-fix分支代码");
     }
 }
